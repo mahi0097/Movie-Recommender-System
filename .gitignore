@@ -1,0 +1,4 @@
+similarity.pkl
+echo similarity.pkl > .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
