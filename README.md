@@ -108,6 +108,12 @@ Please open an issue to discuss what you would like to change before making a pu
 
 This project is licensed under the **MIT License**.
 
+
+## 🚀 Live Demo
+
+👉 [Click here to view the app]([https://your-app-link.streamlit.app](https://movie-recommender-system-bk4m5pqelibarhbvjz599d.streamlit.app/])
+
+
 ---
 
 ⭐ **Star this repo** if you found it useful or interesting!
